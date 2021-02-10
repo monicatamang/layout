@@ -1,0 +1,32 @@
+body {
+    background: orange;
+}
+
+#first {
+    width: 300px;
+    height: 590px;
+    background: red;
+    display: inline-block;
+}
+
+#second {
+    width: 300px;
+    height: 590px;
+    background: green;
+    display: inline-block;
+}
+
+#third {
+    width: 300px;
+    height: 590px;
+    background: blue;
+    display: inline-block;
+}
+
+#fourth {
+    width: 300px;
+    height: 590px;
+    background: purple;
+    display: inline-block;
+}
+
