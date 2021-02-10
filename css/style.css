@@ -1,5 +1,6 @@
 body {
     background: orange;
+    text-align: center;
 }
 
 #first {
@@ -30,3 +31,33 @@ body {
     display: inline-block;
 }
 
+#logo {
+    width: 50px;
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 5rem;
+    margin: 10px;
+}
+
+#group-photo {
+    margin-top: 20px;
+}
+
+.subtitle {
+    font-size: 3em; 
+}
+
+.animals {
+    width: 30%;
+}
+
+.main-photo {
+    width: 95vw;
+    height: 100vh;
+}
+
+.text {
+    font-size: 10pt;
+}
